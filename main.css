@@ -1,0 +1,36 @@
+.cinzel-decorative-regular {
+    font-family: "Cinzel Decorative", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+.cinzel-decorative-bold {
+    font-family: "Cinzel Decorative", serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+.cinzel-decorative-black {
+    font-family: "Cinzel Decorative", serif;
+    font-weight: 900;
+    font-style: normal;
+  }
+.test {
+    text-align: center;
+    border: 1px solid #000000;
+    margin: 10px 750px 10px 750px;
+}
+#fname{
+    margin: 10px;
+    padding: 5px 10px 5px 10px;
+}
+#lname{
+    margin: 10px;
+    padding: 5px 10px 5px 10px;
+}
+#email{
+    margin: 10px;
+    padding: 5px 10px 5px 10px;
+}
+#submit{
+    margin-bottom: 5px;
+}
